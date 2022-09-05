@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dokument</title>
+</head>
+<body>
 
+<h1>Trädgårdar</h1> 
+<div style="width:100%; height:80px; background-image:url(tradgard1.jfif);">
+<p style="color:white; vertical-align: middle; padding: 30px;">Det finns många olika trädgårdar.</p>
+</div>
+<div style="width:100%; height:80px; background-image:url(tradgard2.jfif);">
+<p style="color:white; vertical-align: middle; margin-top: 20px; padding: 30px;">Trädgårdar kan vara väldigt olika men fina ändå.</p>
+</div>
+<div style="width:100%; height:80px; background-image:url(tradgard3.jfif);">
+<p style="color:white; vertical-align: middle; margin-top: 20px; padding: 30px;">Växthus hjälper mycket när man odlar.</p>
+</div>
+<div style="width:100%; height:80px; background-image:url(tradgard4.jfif);">
+<p style="color:black; vertical-align: middle; margin-top: 20px; padding: 30px;">Blommor som blommarpå olika tider över sommaren gör att man alltid har en vacker trädgård</p>
+</div>
+</body>
+</html>
